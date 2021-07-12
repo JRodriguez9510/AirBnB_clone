@@ -50,10 +50,11 @@ button:hover {
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    margin-top: 24px;
+    margin-top: 21px;
     background-color: #FAFAFA;
     left: -51px;
     padding: 31px 51px 30px 0px;
+    z-index: 1;
 }
 
 .popover li {
